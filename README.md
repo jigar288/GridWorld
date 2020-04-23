@@ -27,4 +27,11 @@ All O(1) constant time operations:
 
 - whereis(): if personID represents a currently living person, the row and column where that person currently lives is reported 
 
+## Data Structure Design
+
+
+![homepage screenshot](data_structure_design.jpg)
+
+
+
 
